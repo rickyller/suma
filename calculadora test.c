@@ -8,6 +8,6 @@ int main()
     printf("Introduce el numero 1: ")
     scanf("%i",&n);
 
-    printf("Introduce el numero 2");
+    printf("Introduce el numero 2:");
     scanf("%i",&n2);
 }
